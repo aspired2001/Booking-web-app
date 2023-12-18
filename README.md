@@ -18,11 +18,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev![airbnb-pics-1](https://github.com/aspired2001/Booking-web-app/assets/100749624/e5c407a7-64df-46dd-ad8a-cfd5268f![Screenshot 2023-12-18 221741](https://github.com/aspired2001/Booking-web-app/assets/100749624/04189c84-9e71-489a-a977-51dbdb7c2523)
-ae12)![airbnb-pics-2](https://github.com/aspired2001/Booking-web-app/assets/100749624/9b38d991-343a-4a6c-a9d3-831b420d28b2)
-
-
-# or![airbnb-pics](https://github.com/aspired2001/Booking-web-app/assets/100749624/ae094cc7-d138-476c-9078-00d858f7ceb9)
+pnpm dev
 
 bun dev
 ```
@@ -48,3 +44,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> master
+![airbnb-pics](https://github.com/aspired2001/Booking-web-app/assets/100749624/46921f10-2176-4197-8e60-a25bdce99c12)
+![airbnb-pics-1](https://github.com/aspired2001/Booking-web-app/assets/100749624/ab770c15-09f4-4b48-9ba7-99f10f54c408)
+![airbnb-pics-3](https://github.com/aspired2001/Booking-web-app/assets/100749624/422dc473-7bc3-4478-8971-910e1ba32612)
