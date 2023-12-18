@@ -139,6 +139,7 @@ const SearchModal = () => {
         <Heading
           title="When do you plan to go?"
           subtitle="Make sure everyone is free!"
+          
         />
         <Calendar
           onChange={(value) => setDateRange(value.selection)}
@@ -154,6 +155,7 @@ const SearchModal = () => {
         <Heading
           title="More information"
           subtitle="Find your perfect place!"
+          
         />
         <Counter 
           onChange={(value) => setGuestCount(value)}
@@ -184,7 +186,7 @@ const SearchModal = () => {
   return (
     <Modal
       isOpen={searchModal.isOpen}
-      title="Filters"
+      title="Steps"
       actionLabel={actionLabel}
       onSubmit={onSubmit}
       secondaryActionLabel={secondaryActionLabel}

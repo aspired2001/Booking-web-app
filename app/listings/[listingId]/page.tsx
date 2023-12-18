@@ -1,6 +1,7 @@
 // page.tsx
+import { GetServerSideProps } from 'next';
 import getCurrentUser from "@/app/actions/getCurrentUser";
-import getListingById from "@/app/actions/getListingById";
+import getListingById from '@/app/actions/getListingById'; // Adjust the import path as needed
 import getReservations from "@/app/actions/getReservations";
 
 import ClientOnly from "@/app/components/ClientOnly";
