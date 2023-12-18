@@ -18,8 +18,12 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
-# or
+pnpm dev![airbnb-pics-1](https://github.com/aspired2001/Booking-web-app/assets/100749624/e5c407a7-64df-46dd-ad8a-cfd5268f![Screenshot 2023-12-18 221741](https://github.com/aspired2001/Booking-web-app/assets/100749624/04189c84-9e71-489a-a977-51dbdb7c2523)
+ae12)![airbnb-pics-2](https://github.com/aspired2001/Booking-web-app/assets/100749624/9b38d991-343a-4a6c-a9d3-831b420d28b2)
+
+
+# or![airbnb-pics](https://github.com/aspired2001/Booking-web-app/assets/100749624/ae094cc7-d138-476c-9078-00d858f7ceb9)
+
 bun dev
 ```
 
